@@ -1,4 +1,4 @@
-git status
-git add .
-git commit -m '备注'
-git push origin master
+git status                          查看状态
+git add .                           暂存区
+git commit -m '备注'         工作区
+git push origin master      网络上
