@@ -1,0 +1,7 @@
+git init 		        将当前目录初始化成库
+git status                          查看状态
+git add .                           暂存区
+git commit -m '备注'         工作区
+git push origin master      网络上
+git branch 分支名	        创建分支
+git checkout 分支名	        切换分支
